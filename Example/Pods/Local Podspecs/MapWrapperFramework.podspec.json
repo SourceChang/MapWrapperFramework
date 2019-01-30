@@ -1,8 +1,8 @@
 {
   "name": "MapWrapperFramework",
   "version": "0.1.0",
-  "summary": "A short description of MapWrapperFramework.",
-  "description": "TODO: Add long description of the pod here.",
+  "summary": "Map Wrapper Framework.",
+  "description": "An Map Wrapper Framework",
   "homepage": "https://github.com/SourceChang/MapWrapperFramework",
   "license": {
     "type": "MIT",
@@ -18,5 +18,10 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "MapWrapperFramework/Classes/**/*"
+  "source_files": "MapWrapperFramework/Classes/**/*",
+  "dependencies": {
+    "MapFramework": [
+
+    ]
+  }
 }
