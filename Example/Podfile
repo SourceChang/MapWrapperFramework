@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'MapWrapperFramework_Example' do
+  pod 'MapWrapperFramework', :path => '../'
+
+  target 'MapWrapperFramework_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,16 @@
+PODS:
+  - MapWrapperFramework (0.1.0)
+
+DEPENDENCIES:
+  - MapWrapperFramework (from `../`)
+
+EXTERNAL SOURCES:
+  MapWrapperFramework:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MapWrapperFramework: 6270ffa8a4b33c31db3fdab0508e6416b201f2cb
+
+PODFILE CHECKSUM: 58f427ba5810819c75531a9cb61809dc8b9233ed
+
+COCOAPODS: 1.5.3
